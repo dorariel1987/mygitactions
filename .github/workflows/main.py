@@ -11,7 +11,7 @@ def hello():
     print("hi")
 
 
-def bye():
+   def bye():
     """
     Prints a farewell message.
     """
